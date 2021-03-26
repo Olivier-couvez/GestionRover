@@ -1,0 +1,38 @@
+C:\Users\Virus\Documents\Stage TP CDA\csharp\wifibot\WifiBotForms\WifiBotForms\bin\Debug\WifiBotForms.exe.config
+C:\Users\Virus\Documents\Stage TP CDA\csharp\wifibot\WifiBotForms\WifiBotForms\bin\Debug\WifiBotForms.exe
+C:\Users\Virus\Documents\Stage TP CDA\csharp\wifibot\WifiBotForms\WifiBotForms\bin\Debug\WifiBotForms.pdb
+C:\Users\Virus\Documents\Stage TP CDA\csharp\wifibot\WifiBotForms\WifiBotForms\obj\Debug\WifiBotForms.Properties.Resources.resources
+C:\Users\Virus\Documents\Stage TP CDA\csharp\wifibot\WifiBotForms\WifiBotForms\obj\Debug\WifiBotForms.csproj.GenerateResource.cache
+C:\Users\Virus\Documents\Stage TP CDA\csharp\wifibot\WifiBotForms\WifiBotForms\obj\Debug\WifiBotForms.csproj.CoreCompileInputs.cache
+C:\Users\Virus\Documents\Stage TP CDA\csharp\wifibot\WifiBotForms\WifiBotForms\obj\Debug\WifiBotForms.exe
+C:\Users\Virus\Documents\Stage TP CDA\csharp\wifibot\WifiBotForms\WifiBotForms\obj\Debug\WifiBotForms.pdb
+C:\Users\Virus\Documents\Stage TP CDA\csharp\wifibot\WifiBotForms\WifiBotForms\obj\Debug\WifiBotForms.WifiBot.resources
+C:\Users\Virus\Documents\Stage TP CDA\csharp\wifibot\WifiBotForms\WifiBotForms\obj\Debug\WifiBotForms.csprojAssemblyReference.cache
+C:\Users\Virus\Documents\Stage TP CDA\csharp\wifibot\WifiBotForms\WifiBotForms\obj\Debug\WifiBotForms.AjoutRover.resources
+C:\Users\Virus\Documents\Stage TP CDA\csharp\wifibot\WifiBotForms\WifiBotForms\obj\Debug\WifiBotForms.GestionRover.resources
+C:\Users\Virus\Documents\Stage TP CDA\csharp 2017\wifibot\WifiBotForms\WifiBotForms\bin\Debug\WifiBotForms.exe.config
+C:\Users\Virus\Documents\Stage TP CDA\csharp 2017\wifibot\WifiBotForms\WifiBotForms\bin\Debug\WifiBotForms.exe
+C:\Users\Virus\Documents\Stage TP CDA\csharp 2017\wifibot\WifiBotForms\WifiBotForms\bin\Debug\WifiBotForms.pdb
+C:\Users\Virus\Documents\Stage TP CDA\csharp 2017\wifibot\WifiBotForms\WifiBotForms\obj\Debug\WifiBotForms.csprojAssemblyReference.cache
+C:\Users\Virus\Documents\Stage TP CDA\csharp 2017\wifibot\WifiBotForms\WifiBotForms\obj\Debug\WifiBotForms.AjoutRover.resources
+C:\Users\Virus\Documents\Stage TP CDA\csharp 2017\wifibot\WifiBotForms\WifiBotForms\obj\Debug\WifiBotForms.GestionRover.resources
+C:\Users\Virus\Documents\Stage TP CDA\csharp 2017\wifibot\WifiBotForms\WifiBotForms\obj\Debug\WifiBotForms.GestS.resources
+C:\Users\Virus\Documents\Stage TP CDA\csharp 2017\wifibot\WifiBotForms\WifiBotForms\obj\Debug\WifiBotForms.WifiBot.resources
+C:\Users\Virus\Documents\Stage TP CDA\csharp 2017\wifibot\WifiBotForms\WifiBotForms\obj\Debug\WifiBotForms.Properties.Resources.resources
+C:\Users\Virus\Documents\Stage TP CDA\csharp 2017\wifibot\WifiBotForms\WifiBotForms\obj\Debug\WifiBotForms.csproj.GenerateResource.cache
+C:\Users\Virus\Documents\Stage TP CDA\csharp 2017\wifibot\WifiBotForms\WifiBotForms\obj\Debug\WifiBotForms.csproj.CoreCompileInputs.cache
+C:\Users\Virus\Documents\Stage TP CDA\csharp 2017\wifibot\WifiBotForms\WifiBotForms\obj\Debug\WifiBotForms.exe
+C:\Users\Virus\Documents\Stage TP CDA\csharp 2017\wifibot\WifiBotForms\WifiBotForms\obj\Debug\WifiBotForms.pdb
+C:\Users\Virus\Documents\Stage TP CDA\csharp\csharp 2019\wifibot\WifiBotForms\WifiBotForms\bin\Debug\WifiBotForms.exe.config
+C:\Users\Virus\Documents\Stage TP CDA\csharp\csharp 2019\wifibot\WifiBotForms\WifiBotForms\bin\Debug\WifiBotForms.exe
+C:\Users\Virus\Documents\Stage TP CDA\csharp\csharp 2019\wifibot\WifiBotForms\WifiBotForms\bin\Debug\WifiBotForms.pdb
+C:\Users\Virus\Documents\Stage TP CDA\csharp\csharp 2019\wifibot\WifiBotForms\WifiBotForms\obj\Debug\WifiBotForms.csprojAssemblyReference.cache
+C:\Users\Virus\Documents\Stage TP CDA\csharp\csharp 2019\wifibot\WifiBotForms\WifiBotForms\obj\Debug\WifiBotForms.AjoutRover.resources
+C:\Users\Virus\Documents\Stage TP CDA\csharp\csharp 2019\wifibot\WifiBotForms\WifiBotForms\obj\Debug\WifiBotForms.GestionRover.resources
+C:\Users\Virus\Documents\Stage TP CDA\csharp\csharp 2019\wifibot\WifiBotForms\WifiBotForms\obj\Debug\WifiBotForms.GestS.resources
+C:\Users\Virus\Documents\Stage TP CDA\csharp\csharp 2019\wifibot\WifiBotForms\WifiBotForms\obj\Debug\WifiBotForms.WifiBot.resources
+C:\Users\Virus\Documents\Stage TP CDA\csharp\csharp 2019\wifibot\WifiBotForms\WifiBotForms\obj\Debug\WifiBotForms.Properties.Resources.resources
+C:\Users\Virus\Documents\Stage TP CDA\csharp\csharp 2019\wifibot\WifiBotForms\WifiBotForms\obj\Debug\WifiBotForms.csproj.GenerateResource.cache
+C:\Users\Virus\Documents\Stage TP CDA\csharp\csharp 2019\wifibot\WifiBotForms\WifiBotForms\obj\Debug\WifiBotForms.csproj.CoreCompileInputs.cache
+C:\Users\Virus\Documents\Stage TP CDA\csharp\csharp 2019\wifibot\WifiBotForms\WifiBotForms\obj\Debug\WifiBotForms.exe
+C:\Users\Virus\Documents\Stage TP CDA\csharp\csharp 2019\wifibot\WifiBotForms\WifiBotForms\obj\Debug\WifiBotForms.pdb
