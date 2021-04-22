@@ -14,7 +14,7 @@ namespace WifiBotForms
     {
 
         List<ListeRover> listeRovers;
-        enregFichier sauvegarde;
+        EnregFichier sauvegarde;
         ListeRover nouveauRover;
         private string IP;
         private string TCP;
@@ -28,7 +28,7 @@ namespace WifiBotForms
 
             listeRovers = new List<ListeRover>();// instanciation d'une liste rover
 
-            sauvegarde = new enregFichier();
+            sauvegarde = new EnregFichier();
             //On vérifie l'existence d'une sauvegarde
             if (sauvegarde.TestExistenceFichier() == true)
             {

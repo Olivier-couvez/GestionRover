@@ -53,7 +53,7 @@
     <Compile Include="AjoutRover.Designer.cs">
       <DependentUpon>AjoutRover.cs</DependentUpon>
     </Compile>
-    <Compile Include="enregFichier.cs" />
+    <Compile Include="EnregFichier.cs" />
     <Compile Include="GestionRover.cs">
       <SubType>Form</SubType>
     </Compile>

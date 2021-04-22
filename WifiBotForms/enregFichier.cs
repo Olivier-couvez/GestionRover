@@ -9,13 +9,13 @@ using System.Windows.Forms;
 
 namespace WifiBotForms
 {
-    class enregFichier
+    class EnregFichier
     {
 
         private string nomFichier;
         private List<ListeRover> lesRovers;
 
-        public enregFichier()
+        public EnregFichier()
         {
             string NomUtilisateur = Environment.GetEnvironmentVariable("USERNAME");
             nomFichier = "C:\\Users\\" + NomUtilisateur + "\\Documents\\Wifibot\\listerovers.bin";
